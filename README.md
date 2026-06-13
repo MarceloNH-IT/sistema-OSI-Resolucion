@@ -1,5 +1,8 @@
+
 # sistema-OSI-Resolucion
 Cómo resolver y documentar el sistema OSI
+
+![GitHub Stats](V1.jpg)
 
 📌 Cómo resolver y documentar el sistema OSI
 La idea es que cada capa tenga:
