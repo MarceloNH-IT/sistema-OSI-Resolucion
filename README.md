@@ -4,6 +4,49 @@ Cómo resolver y documentar el sistema OSI
 
 ![GitHub Stats](V1.jpg)
 
+
+# 🌐 Sistema OSI – Resolución y Aplicación
+
+## 📌 Descripción
+Este laboratorio explica el **modelo OSI** y cómo se aplica en la práctica dentro de entornos de redes y soporte técnico.  
+El objetivo es comprender cada capa y relacionarla con ejemplos reales de configuración y diagnóstico.
+
+## 🎯 Objetivos
+- [Comprender las 7 capas del modelo OSI](ca://s?q=Explicacion_de_las_7_capas_del_modelo_OSI)
+- [Aplicar conceptos en Packet Tracer](ca://s?q=Aplicar_modelo_OSI_en_Packet_Tracer)
+- [Relacionar teoría con comandos de red](ca://s?q=Relacionar_modelo_OSI_con_comandos_de_red)
+- [Documentar resolución de casos](ca://s?q=Documentar_resolucion_de_casos_en_GitHub)
+
+## 🧩 Capas del modelo OSI con ejemplos
+- **Capa Física** → cables, conectores, señal eléctrica.  
+- **Capa Enlace de Datos** → switch, MAC address, VLANs.  
+- **Capa Red** → IP, routing, `ping`, `traceroute`.  
+- **Capa Transporte** → TCP/UDP, puertos.  
+- **Capa Sesión** → inicio y cierre de conexiones.  
+- **Capa Presentación** → cifrado, compresión.  
+- **Capa Aplicación** → servicios como HTTP, DNS, correo.
+
+## 🔧 Aplicación práctica
+- Configuración de IP en Linux (`ip addr show`, `netplan apply`).  
+- Validación de conectividad (`ping`, `nslookup`).  
+- Simulación en Packet Tracer con router, switch y PCs.  
+- Documentación de errores y resolución (ejemplo: interfaz desconectada en VM).  
+
+## ✅ Validación
+- Ping exitoso entre dispositivos.  
+- DNS funcionando con `nslookup`.  
+- Comunicación estable en todas las capas del modelo OSI.  
+
+## 📷 Evidencias
+- Capturas de Packet Tracer mostrando topología.  
+- Resultados de comandos en consola Linux.  
+- Diagramas del modelo OSI aplicado al laboratorio.  
+
+## 📚 Notas
+Este repositorio forma parte de mi portafolio IT en GitHub, donde documento laboratorios de **Networking, NOC y Administración de Sistemas**.  
+El objetivo es mostrar cómo aplico teoría en entornos prácticos y cómo escalo casos de resolución paso a paso.
+
+
 📌 Cómo resolver y documentar el sistema OSI
 La idea es que cada capa tenga:
 
