@@ -129,7 +129,7 @@ Cada capa se valida con comandos y capturas:
 
 📌 Observación: Documentar cada capa permite ubicar el fallo en el nivel correcto y aplicar la reparación adecuada.
 
-
+![GitHub Stats](FotoNOC.jpg)
 
 
 
